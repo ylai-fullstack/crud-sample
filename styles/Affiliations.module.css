@@ -1,0 +1,15 @@
+.wrapper {
+  padding-top: 20px;
+  background-color: #f7f9fa;
+}
+
+.linkPosition {
+  margin-left: 100px;
+}
+
+.icons {
+  margin-right: 10px;
+  font-size: 30px;
+  color: gray;
+  opacity: 0.5;
+}
